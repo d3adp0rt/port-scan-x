@@ -1,0 +1,2 @@
+flet==0.24.1
+asyncio-throttle>=1.0.2
